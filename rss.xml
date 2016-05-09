@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Yoda Nehoda]]></title>
         <description><![CDATA[Yoda Nehoda]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yoda-nehoda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 13:43:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 02:52:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yoda-nehoda/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.darkreading.com/cloud/5-questions-smbs-should-ask-about-cloud-security-/d/d-id/1325418?</p>]]></description>
+            <link>https://thegrid.ai/yoda-nehoda/httpwwwdarkreadingcomcloud5-questions-smbs-should-ask/index.html</link>
+            <guid isPermaLink="false">80edb734-4d82-43d3-8e72-6147ffd39f2b</guid>
+            <pubDate>Mon, 09 May 2016 02:52:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fc34290-30e9-41a0-8a59-750e50ef57f1.jpg">]]></description>
-            <link>undefinedhi/index.html</link>
+            <link>https://thegrid.ai/yoda-nehoda/hi/index.html</link>
             <guid isPermaLink="false">7faf3f4a-128d-4d97-95b1-7f4b9548c668</guid>
             <pubDate>Tue, 26 Apr 2016 13:43:08 GMT</pubDate>
         </item>
