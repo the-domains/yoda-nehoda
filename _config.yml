@@ -1,7 +1,7 @@
 name: Yoda Nehoda
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4898709305562079
+typography_spectrum: 0.49833
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#0b0e13'
     - '#94959a'
     - '#87b5e8'
-  brandStrength: 0.5625
-  lightness: 0.24926922749727964
-  saturation: 0.44338280730880797
-  rhythmicContrast: 0.11323345568962395
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
