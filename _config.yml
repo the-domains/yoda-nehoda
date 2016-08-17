@@ -1,7 +1,7 @@
 name: Yoda Nehoda
 favicon: null
-layout_spectrum: 0.48397
-typography_spectrum: 0.24367
+layout_spectrum: 1
+typography_spectrum: 1
 title: Learn the Force You Will
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#000100'
-    - '#443425'
-    - '#6c6e69'
-    - '#a5bbc6'
-  brandStrength: 0.5625
-  lightness: 0.625
-  saturation: 0.75
+    - '#ffffff'
+    - '#000000'
+    - '#502158'
+    - '#786d8d'
+    - '#145857'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
