@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Geek Shit
+    id: 0fa951a6-42a0-421f-ae77-4643d73d6b73
+    type: content
 favicon: null
 title: 'Telling it like is all the time '
 purpose: []
